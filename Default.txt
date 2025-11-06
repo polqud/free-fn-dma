@@ -1,0 +1,842 @@
+{
+    "Colors": {
+        "ActiveTabColor": [
+            0.13215400278568268,
+            0.5120967626571655,
+            0.0,
+            1.0
+        ],
+        "ActiveWeaponTabColor": [
+            0.05872789025306702,
+            0.5201612710952759,
+            0.0,
+            1.0
+        ],
+        "Border": [
+            0.11693549156188965,
+            0.11693549156188965,
+            0.11693549156188965,
+            1.0
+        ],
+        "BorderShadow": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "Button": [
+            0.29032260179519653,
+            0.29032260179519653,
+            0.29032260179519653,
+            0.3100000023841858
+        ],
+        "ButtonActive": [
+            0.803605318069458,
+            1.0,
+            0.7217742204666138,
+            1.0
+        ],
+        "ButtonHovered": [
+            0.6328843235969543,
+            0.975806474685669,
+            0.5784014463424683,
+            0.3100000023841858
+        ],
+        "CheckMark": [
+            0.09176638722419739,
+            0.6693548560142517,
+            0.0,
+            1.0
+        ],
+        "ChildBg": [
+            0.07258069515228271,
+            0.07258069515228271,
+            0.07258069515228271,
+            1.0
+        ],
+        "EnableSnowflakes": true,
+        "FrameBg": [
+            0.31854838132858276,
+            0.31854838132858276,
+            0.31854838132858276,
+            0.3100000023841858
+        ],
+        "FrameBgActive": [
+            0.800000011920929,
+            0.800000011920929,
+            0.8309999704360962,
+            0.3100000023841858
+        ],
+        "FrameBgHovered": [
+            0.7391064167022705,
+            1.0,
+            0.7137097120285034,
+            0.3100000023841858
+        ],
+        "FullscreenSnowflakes": true,
+        "Header": [
+            0.057817380875349045,
+            0.5120967626571655,
+            0.0,
+            1.0
+        ],
+        "HeaderActive": [
+            1.0,
+            0.9969757795333862,
+            0.625,
+            0.3100000023841858
+        ],
+        "HeaderHovered": [
+            0.07186523824930191,
+            0.524193525314331,
+            0.0,
+            0.3100000023841858
+        ],
+        "LogoTint": [
+            0.20000001788139343,
+            0.7803922295570374,
+            0.0,
+            1.0
+        ],
+        "MenuBarBg": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "NestedBg": [
+            0.10483872890472412,
+            0.10483872890472412,
+            0.10483872890472412,
+            1.0
+        ],
+        "PlotHistogram": [
+            0.800000011920929,
+            0.800000011920929,
+            0.8309999704360962,
+            1.0
+        ],
+        "PlotHistogramHovered": [
+            0.800000011920929,
+            0.800000011920929,
+            0.8309999704360962,
+            1.0
+        ],
+        "PlotLines": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "PlotLinesHovered": [
+            0.800000011920929,
+            0.800000011920929,
+            0.8309999704360962,
+            1.0
+        ],
+        "PopupBg": [
+            0.17741936445236206,
+            0.17741936445236206,
+            0.17741936445236206,
+            1.0
+        ],
+        "RadarBackgroundColor": [
+            0.10000000149011612,
+            0.10000000149011612,
+            0.10000000149011612,
+            0.800000011920929
+        ],
+        "RadarDividerColor": [
+            0.5,
+            0.5,
+            0.5,
+            1.0
+        ],
+        "RadarEnemyColor": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "RadarNPCColor": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+        ],
+        "RadarTeamColor": [
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "ResizeGrip": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "ResizeGripActive": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "ResizeGripHovered": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "ScrollbarBg": [
+            0.06451618671417236,
+            0.06399589776992798,
+            0.06399589776992798,
+            1.0
+        ],
+        "ScrollbarGrab": [
+            0.0,
+            0.5725806951522827,
+            0.07388131320476532,
+            1.0
+        ],
+        "ScrollbarGrabActive": [
+            0.740537166595459,
+            1.0,
+            0.6814516186714172,
+            1.0
+        ],
+        "ScrollbarGrabHovered": [
+            0.7411764860153198,
+            0.8823530077934265,
+            0.6823529601097107,
+            1.0
+        ],
+        "SidebarIconTints": [
+            [
+                0.20000001788139343,
+                0.7803922295570374,
+                0.0,
+                1.0
+            ],
+            [
+                0.2018730342388153,
+                0.7822580337524414,
+                0.0,
+                1.0
+            ],
+            [
+                0.20000001788139343,
+                0.7803922295570374,
+                0.0,
+                1.0
+            ],
+            [
+                0.20000001788139343,
+                0.7803922295570374,
+                0.0,
+                1.0
+            ],
+            [
+                0.20000001788139343,
+                0.7803922295570374,
+                0.0,
+                1.0
+            ],
+            [
+                0.20000001788139343,
+                0.7803922295570374,
+                0.0,
+                1.0
+            ],
+            [
+                0.20000001788139343,
+                0.7803922295570374,
+                0.0,
+                1.0
+            ],
+            [
+                0.20000001788139343,
+                0.7803922295570374,
+                0.0,
+                1.0
+            ],
+            [
+                0.20000001788139343,
+                0.7803922295570374,
+                0.0,
+                1.0
+            ]
+        ],
+        "SliderGrab": [
+            0.05365506932139397,
+            0.6048387289047241,
+            0.0,
+            1.0
+        ],
+        "SliderGrabActive": [
+            0.7411764860153198,
+            1.0,
+            0.6823529601097107,
+            1.0
+        ],
+        "SnowflakeColor": [
+            0.4841935634613037,
+            0.6653226017951965,
+            0.42119213938713074,
+            0.5839999914169312
+        ],
+        "SnowflakeCount": 96,
+        "SnowflakeSpeed": 0.4269999861717224,
+        "Text": [
+            0.6854838728904724,
+            0.6854838728904724,
+            0.6854838728904724,
+            1.0
+        ],
+        "TextDisabled": [
+            0.800000011920929,
+            0.800000011920929,
+            0.8309999704360962,
+            0.3100000023841858
+        ],
+        "TextSelectedBg": [
+            0.800000011920929,
+            0.800000011920929,
+            0.8309999704360962,
+            0.3100000023841858
+        ],
+        "TitleBg": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "TitleBgActive": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "TitleBgCollapsed": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "WindowBg": [
+            0.07258069515228271,
+            0.07258069515228271,
+            0.07258069515228271,
+            1.0
+        ]
+    },
+    "Config": {
+        "AimBone": 0,
+        "AimBonePistol": 0,
+        "AimBoneRifle": 0,
+        "AimBoneShotgun": 0,
+        "AimBoneSniper": 0,
+        "AimFov": 100,
+        "AimFovPistol": 100,
+        "AimFovRifle": 100,
+        "AimFovShotgun": 100,
+        "AimFovSniper": 100,
+        "AimKey": 2,
+        "AimKey2": 2,
+        "AimKey2Pistol": 2,
+        "AimKey2Rifle": 2,
+        "AimKey2Shotgun": 2,
+        "AimKey2Sniper": 2,
+        "AimKeyPistol": 2,
+        "AimKeyRifle": 2,
+        "AimKeyShotgun": 2,
+        "AimKeySniper": 2,
+        "AimSelectedBones": 1,
+        "AimSelectedBonesPistol": 1,
+        "AimSelectedBonesRifle": 1,
+        "AimSelectedBonesShotgun": 1,
+        "AimSelectedBonesSniper": 1,
+        "AimSmoothing": 10.0,
+        "AimSmoothingPistol": 10.0,
+        "AimSmoothingRifle": 10.0,
+        "AimSmoothingShotgun": 10.0,
+        "AimSmoothingSniper": 10.0,
+        "Aimbot": true,
+        "AimbotIgnoreknocked": false,
+        "AimbotIgnoreknockedPistol": false,
+        "AimbotIgnoreknockedRifle": false,
+        "AimbotIgnoreknockedShotgun": false,
+        "AimbotIgnoreknockedSniper": false,
+        "AimbotPistol": true,
+        "AimbotPrioritizeNonKnocked": true,
+        "AimbotReactionDelay": 0.0,
+        "AimbotRifle": true,
+        "AimbotShotgun": true,
+        "AimbotSniper": true,
+        "AimbotStepping": 1.0,
+        "AimbotTeamCheck": true,
+        "AimbotVisCheck": false,
+        "AimbotVisCheckPistol": true,
+        "AimbotVisCheckRifle": true,
+        "AimbotVisCheckShotgun": true,
+        "AimbotVisCheckSniper": true,
+        "Bots": false,
+        "Box": false,
+        "BoxRoundness": 10.0,
+        "BoxThickness": 2.0,
+        "CloseAimEnabled": false,
+        "CloseAimFov": 30,
+        "CloseAimHitboxes": 1,
+        "CloseAimMaxDistance": 10.0,
+        "CloseAimSmoothing": 10.0,
+        "CornerBox": false,
+        "CornerboxColor": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "CornerboxColorVisible": [
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "Crosshair": false,
+        "CrosshairColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "Deceleration": 0.0,
+        "DecelerationPistol": 0.0,
+        "DecelerationRifle": 0.0,
+        "DecelerationShotgun": 0.0,
+        "DecelerationSniper": 0.0,
+        "Distance": true,
+        "DistanceColor": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "DistanceColorVisible": [
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "DynamicMaxDistance": 100.0,
+        "DynamicMaxDistancePistol": 100.0,
+        "DynamicMaxDistanceRifle": 100.0,
+        "DynamicMaxDistanceShotgun": 100.0,
+        "DynamicMaxDistanceSniper": 100.0,
+        "DynamicSmooth": 0.0,
+        "DynamicSmoothEnabled": false,
+        "DynamicSmoothEnabledPistol": false,
+        "DynamicSmoothEnabledRifle": false,
+        "DynamicSmoothEnabledShotgun": false,
+        "DynamicSmoothEnabledSniper": false,
+        "DynamicSmoothPistol": 0.0,
+        "DynamicSmoothRifle": 0.0,
+        "DynamicSmoothShotgun": 0.0,
+        "DynamicSmoothSniper": 0.0,
+        "ESPPanicEnabled": false,
+        "ESPPanicKey": 0,
+        "EnableBackupHitbox": true,
+        "EnableBackupHitboxPistol": true,
+        "EnableBackupHitboxRifle": true,
+        "EnableBackupHitboxShotgun": true,
+        "EnableBackupHitboxSniper": true,
+        "EnableRenderDistance": false,
+        "ExitCheat": false,
+        "FovArrows": false,
+        "FovArrowsColor": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "FovArrowsColorVisible": [
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "FovArrowsSlider": 100,
+        "FovColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "Fuser": false,
+        "GlobalToggleKey": 0,
+        "HeadCircleEnabled": false,
+        "HeadCircleFilled": false,
+        "HeadCircleOffset": 0.0,
+        "HeadCircleSize": 1.0,
+        "HumanizingEnabled": false,
+        "HumanizingEnabledPistol": false,
+        "HumanizingEnabledRifle": false,
+        "HumanizingEnabledShotgun": false,
+        "HumanizingEnabledSniper": false,
+        "Ignorenpc": false,
+        "Jitter": 0.0,
+        "JitterPistol": 0.0,
+        "JitterRifle": 0.0,
+        "JitterShotgun": 0.0,
+        "JitterSniper": 0.0,
+        "KillScore": false,
+        "KillScoreColor": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "KillScoreColorVisible": [
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "LogoTint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "MaxESPPlayers": 100,
+        "MenuKey": 45,
+        "MissPercent": 0.0,
+        "MissPercentPistol": 0.0,
+        "MissPercentRifle": 0.0,
+        "MissPercentShotgun": 0.0,
+        "MissPercentSniper": 0.0,
+        "MoonlightAim": false,
+        "Name": false,
+        "NameColor": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "NameColorVisible": [
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "NoUnlock": false,
+        "Platform": false,
+        "PlatformColor": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "PlatformColorVisible": [
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "PredictionDotEnabled": false,
+        "PredictionDotSize": 3.0,
+        "Radar": true,
+        "RadarClampPositions": false,
+        "RadarDistance": true,
+        "RadarDrawCenter": false,
+        "RadarEnlargeKey": 0,
+        "RadarEnlarged": false,
+        "RadarFuser": false,
+        "RadarHideLocal": false,
+        "RadarIgnoreKnocked": false,
+        "RadarIgnoreNPCs": false,
+        "RadarIgnoreTeam": false,
+        "RadarMaxDistance": 600.0,
+        "RadarMinDistance": 0.0,
+        "RadarNoRotate": false,
+        "RadarPlayerType": 0,
+        "RadarScale": 2147483647,
+        "RadarShape": 0,
+        "RadarShowBackground": true,
+        "RadarShowDivider": true,
+        "RadarShowEnemyColor": true,
+        "RadarShowNPCColor": true,
+        "RadarShowTeamColor": true,
+        "RadarToggleKey": 0,
+        "RadarUseTeamColor": false,
+        "RadarWidgetBorder": false,
+        "RadarX": 30,
+        "RadarXSize": 300,
+        "RadarY": 30,
+        "RadarYSize": 300,
+        "RadarZoom": 1.0,
+        "RainbowFov": false,
+        "RandSmoothingEnabled": false,
+        "RandSmoothingEnabledPistol": false,
+        "RandSmoothingEnabledRifle": false,
+        "RandSmoothingEnabledShotgun": false,
+        "RandSmoothingEnabledSniper": false,
+        "RandSmoothingMax": 10.0,
+        "RandSmoothingMaxPistol": 10.0,
+        "RandSmoothingMaxRifle": 10.0,
+        "RandSmoothingMaxShotgun": 10.0,
+        "RandSmoothingMaxSniper": 10.0,
+        "RandSmoothingMin": 1.0,
+        "RandSmoothingMinPistol": 1.0,
+        "RandSmoothingMinRifle": 1.0,
+        "RandSmoothingMinShotgun": 1.0,
+        "RandSmoothingMinSniper": 1.0,
+        "Rank": false,
+        "RankColor": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "RankColorVisible": [
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "ReactionDelay": 0.0,
+        "ReactionDelayPistol": 0.0,
+        "ReactionDelayRifle": 0.0,
+        "ReactionDelayShotgun": 0.0,
+        "ReactionDelaySniper": 0.0,
+        "RenderDistance": 300.0,
+        "ShowAimFov": false,
+        "ShowAimFovPistol": false,
+        "ShowAimFovRifle": false,
+        "ShowAimFovShotgun": false,
+        "ShowAimFovSniper": false,
+        "Skeleton": true,
+        "SkeletonDynamicThickness": false,
+        "SkeletonJointSize": 3.0,
+        "SkeletonShowJoints": false,
+        "SkeletonThickness": 0.800000011920929,
+        "SmoothBoneTransitioning": false,
+        "SmoothBoneTransitioningPistol": false,
+        "SmoothBoneTransitioningRifle": false,
+        "SmoothBoneTransitioningShotgun": false,
+        "SmoothBoneTransitioningSniper": false,
+        "SnapColor": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "SnapColorVisible": [
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "SnaplineMiddle": false,
+        "SnaplineTop": false,
+        "Snaplines": false,
+        "Spectators": false,
+        "StepPerDegreeX": 10.0,
+        "StepPerDegreeY": -10.0,
+        "StickyAimEnabled": false,
+        "StickyMaxEnemies": 2,
+        "StickySlipperyStrength": 0.0,
+        "StickySmoothness": 10.0,
+        "StickyTurnOffDistance": 40.0,
+        "StickyTurnOffIfMultiple": false,
+        "TargetSwitchDelay": 0.0,
+        "TargetSwitchDelayPistol": 0.0,
+        "TargetSwitchDelayRifle": 0.0,
+        "TargetSwitchDelayShotgun": 0.0,
+        "TargetSwitchDelaySniper": 0.0,
+        "Topmost": true,
+        "TriggerActivateMode": 0,
+        "TriggerBot": true,
+        "TriggerBotAll": false,
+        "TriggerBotAlwaysOn": false,
+        "TriggerBotAlwaysOnPistol": false,
+        "TriggerBotAlwaysOnRifle": false,
+        "TriggerBotAlwaysOnSMG": false,
+        "TriggerBotAlwaysOnShotgun": false,
+        "TriggerBotAlwaysOnSniper": false,
+        "TriggerBotHitboxes": 0,
+        "TriggerBotHitboxesPistol": 0,
+        "TriggerBotHitboxesRifle": 0,
+        "TriggerBotHitboxesSMG": 0,
+        "TriggerBotHitboxesShotgun": 0,
+        "TriggerBotHitboxesSniper": 0,
+        "TriggerBotIgnoreKnocked": false,
+        "TriggerBotIgnoreNPCs": false,
+        "TriggerBotIgnoreknocked": false,
+        "TriggerBotMaxDistance": 100.0,
+        "TriggerBotMaxDistancePistol": 100.0,
+        "TriggerBotMaxDistanceRifle": 100.0,
+        "TriggerBotMaxDistanceSMG": 100.0,
+        "TriggerBotMaxDistanceShotgun": 100.0,
+        "TriggerBotMaxDistanceSniper": 100.0,
+        "TriggerBotPistol": true,
+        "TriggerBotRifle": true,
+        "TriggerBotSMG": true,
+        "TriggerBotShotgun": true,
+        "TriggerBotSniper": true,
+        "TriggerBotTeamCheck": false,
+        "TriggerDelay": 0,
+        "TriggerDelayPistol": 0,
+        "TriggerDelayRifle": 0,
+        "TriggerDelaySMG": 0,
+        "TriggerDelayShotgun": 0,
+        "TriggerDelaySniper": 0,
+        "TriggerFireKey": 1,
+        "TriggerKey": 2,
+        "TriggerKey2": 2,
+        "WatermarkAccentColor": [
+            0.800000011920929,
+            0.800000011920929,
+            0.8299999833106995,
+            0.8799999952316284
+        ],
+        "WatermarkBackgroundColor": [
+            0.07000000029802322,
+            0.07000000029802322,
+            0.09000000357627869,
+            1.0
+        ],
+        "WeaponColor": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "WeaponColorVisible": [
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "WeaponRandSmoothingEnabled": false,
+        "WeaponRandSmoothingEnabledPistol": false,
+        "WeaponRandSmoothingEnabledRifle": false,
+        "WeaponRandSmoothingEnabledShotgun": false,
+        "WeaponRandSmoothingEnabledSniper": false,
+        "WeaponRandSmoothingMin": 1.0,
+        "WeaponRandSmoothingMinPistol": 1.0,
+        "WeaponRandSmoothingMinRifle": 1.0,
+        "WeaponRandSmoothingMinShotgun": 1.0,
+        "WeaponRandSmoothingMinSniper": 1.0,
+        "Weaponname": false,
+        "WorldESPAmmo": false,
+        "WorldESPBandages": false,
+        "WorldESPBoxRounding": 0.0,
+        "WorldESPBoxThickness": 1.0,
+        "WorldESPColorCommon": [
+            0.5,
+            0.5,
+            0.5,
+            1.0
+        ],
+        "WorldESPColorEpic": [
+            0.5,
+            0.0,
+            1.0,
+            1.0
+        ],
+        "WorldESPColorLegendary": [
+            1.0,
+            0.5,
+            0.0,
+            1.0
+        ],
+        "WorldESPColorMythic": [
+            1.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "WorldESPColorRare": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+        ],
+        "WorldESPColorUncommon": [
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "WorldESPConsumables": false,
+        "WorldESPDistance": false,
+        "WorldESPEnabled": false,
+        "WorldESPGrenades": false,
+        "WorldESPMaterials": false,
+        "WorldESPMaxDistance": 100.0,
+        "WorldESPMaxDistance2": 150.0,
+        "WorldESPMedkits": false,
+        "WorldESPNames": false,
+        "WorldESPQuestItems": false,
+        "WorldESPShields": false,
+        "WorldESPShowHealsWhenLow": true,
+        "WorldESPShowSameItemHeld": true,
+        "WorldESPShowWeaponDamage": true,
+        "WorldESPShowWeaponFireRate": true,
+        "WorldESPShowWeaponMagSize": true,
+        "WorldESPShowWeaponRange": true,
+        "WorldESPShowWeaponReloadTime": true,
+        "WorldESPShowWeaponUpgrades": true,
+        "WorldESPSnaplineThickness": 1.0,
+        "WorldESPSnaplines": false,
+        "WorldESPSpecialItems": false,
+        "WorldESPToggleKey": 0,
+        "WorldESPTraps": false,
+        "WorldESPWeapons": false,
+        "boxColor": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "boxColorVisible": [
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "isVis": true,
+        "skeletonColor": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "skeletonColorVisible": [
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "vSync": false
+    },
+    "Dma": {
+        "MemoryMap": true
+    },
+    "KmboxNet": {
+        "KmboxNetIp": "192.168.2.188",
+        "KmboxNetPort": "1234",
+        "KmboxNetUuid": "1234ABCD"
+    },
+    "Menu": {
+        "AdvancedDebug": false,
+        "Internals": false,
+        "PlayerList": false,
+        "Statistics": false
+    },
+    "Window": {
+        "Height": 1080,
+        "Width": 1920
+    }
+}
