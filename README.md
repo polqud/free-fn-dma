@@ -22,6 +22,7 @@
     > View upcoming features here:
       https://mortuus.xyz
 
+![menu-CeRABSLp](https://github.com/user-attachments/assets/3683dff8-20c9-4e18-a452-239f41d1136e)
 
 |
                      System Requirements
@@ -37,4 +38,5 @@
 
     > Join the Discord for updates, support, and feedback:
       https://discord.gg/hjPmwASK
+
 
