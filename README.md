@@ -37,6 +37,6 @@
 =
 
     > Join the Discord for updates, support, and feedback:
-      https://discord.gg/hjPmwASK
+      https://discord.gg/hjPmwASK 
 
 
