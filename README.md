@@ -11,7 +11,7 @@
       Extract all files into any directory you prefer.
 
 
-[2] Required DLL Notice
+[2] Required DLL Notice   
 
     ⚠  Do NOT launch Mortuus.exe without the DLL files.
        The program will fail immediately.
