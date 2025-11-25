@@ -1,4 +1,4 @@
-{
+{   
     "Colors": {
         "ActiveTabColor": [
             0.13215400278568268,
