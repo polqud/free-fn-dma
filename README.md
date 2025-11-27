@@ -4,7 +4,7 @@
 ================================================================
 
 [1] Download the Repository / Files
-    (Run these steps on your SECOND PC)
+    (Run these steps on your SECOND PC) 
 
 
     > Download the latest  build.
