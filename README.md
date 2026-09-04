@@ -1,6 +1,6 @@
 
 |           Mortuus DMA  
-  [website](https://mortuus.xyz)   /  [discord](https://discord.gg/EwcsJrVuXv) |
+  [website](https://mortuus.xyz)   /  [discord](https://discord.gg/qd8cec83Dx) |
 ================================================================
 
 [1] Download the Repository / Files
